@@ -25,3 +25,16 @@ p {
 .header {
   background-image: url("../../resources/images/background.png");
 }
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+span {
+  word-spacing: 20px;
+}
+li {
+  list-style: none;
+  padding-bottom: 12px;
+}
